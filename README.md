@@ -3,9 +3,10 @@
 Développeur web full-stack passionné avec une expérience en **Game/Level Design** et **UX/UI Design**, je suis toujours à la recherche de projets qui allient créativité et innovation technique. Mon parcours varié me permet d’avoir une vision globale des projets, de la conception au développement, avec une attention particulière portée à l’expérience utilisateur.
 
 <a href="https://www.youtube.com/watch?v=hEytvVkd2Cg&feature=youtu.be" target="_blank">
-  <img src="https://img.youtube.com/vi/hEytvVkd2Cg/maxresdefault.jpg" alt="CV Vidéo" width="600"/>
-</a><br>
-Regardez mon CV vidéo sur YouTube en cliquant sur l'image ci-dessus.
+  <img src="https://img.youtube.com/vi/hEytvVkd2Cg/maxresdefault.jpg" alt="CV Vidéo" width="500" />
+</a>
+
+**Mon CV vidéo** : Cliquez sur l'image pour voir la vidéo complète.
 
 ## 🎯 Ce que je recherche :
 Je suis en quête d’une **alternance** dans le développement web pour approfondir mes compétences techniques et de contribuer activement à vos projets. Mon objectif est de continuer à évoluer dans un environnement stimulant.
