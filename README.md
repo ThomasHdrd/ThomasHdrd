@@ -54,7 +54,7 @@ Je suis en quête d’une **alternance** dans le développement web pour approfo
 ## ✨ Centres d’intérêt :
 - 🎮 **Jeux vidéo** : Passionné par le game design et la conception de niveaux, je trouve dans les jeux vidéo un terrain créatif pour expérimenter l'interactivité et l'immersion.
 - 💡 **Entrepreneuriat** : Toujours à la recherche de nouvelles opportunités, l’entrepreneuriat me permet d’allier créativité, innovation et sens des affaires pour construire des projets ambitieux.
-- ⚽ **Sports** : Le **football** et la **musculation** m'ont appris la discipline, la persévérance et l'importance de travailler en équipe pour atteindre ses objectifs.
+- ⚽ **Sports** : Le **football**, la **musculation** et la **course à pied** m'ont appris la discipline, la persévérance et l'importance de travailler en équipe pour atteindre ses objectifs.
 - 🌍 **Voyages** : J'apprécie découvrir de nouvelles cultures et élargir ma vision du monde à travers chaque destination.
 
 N’hésitez pas à me contacter pour des collaborations, des opportunités professionnelles !
